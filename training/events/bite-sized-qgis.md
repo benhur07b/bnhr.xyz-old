@@ -15,7 +15,7 @@ Official QGIS Certificates are also available. You may opt to get one certificat
 
 ## Interested?
 Sign-up or check out the courses below.
-*Tentative schedule of courses are Fridays and Saturdays, 10:00AM & 2:00PM or 3:00PM. You may check the calendar at the bottom for the tentative schedules. The payment and other details will be emailed to you after signing-up. You may [contact me](https://bnhr.xyz/#contact) if you have suggestions as to the content or schedule of the courses.*
+*Tentative schedule of courses are Saturdays and Sundays, 1:00 PM onward. You may check the calendar at the bottom for the tentative schedules. The payment and other details will be emailed to you after signing-up. You may [contact me](https://bnhr.xyz/#contact) if you have suggestions as to the content or schedule of the courses.*
 
 ## Sign-up
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrJHaUvwGgjKLSDp?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -23,7 +23,7 @@ Sign-up or check out the courses below.
 
 ## Bite-sized QGIS (Beginner Topics)
 **Duration:** 2-3 hours
-<br>**Training Fee:** PhP 700 per course
+<br>**Training Fee:** PhP 800 per course
 <br>**Class Size:** 6-12
 
 ### Introduction to QGIS & Spatial Data Types
@@ -86,7 +86,7 @@ Sign-up or check out the courses below.
 
 ## Bite-sized QGIS (Intermediate & Advanced Topics)
 **Duration:** 3-4 hours
-<br>**Training Fee:** PhP 1,400 per course
+<br>**Training Fee:** PhP 1,500 per course
 <br>**Class Size:** 6-12
 
 ### Network Analysis
@@ -94,20 +94,6 @@ Sign-up or check out the courses below.
 - Shortest distance & fastest route
 - Isochrones
 - Other network analysis algorithms in QGIS
-
-### QGIS & Python I
-- The PyQGIS API
-- Python & QGIS Actions
-- Python & QGIS Expressions
-- *knowledge of Python is preferred*
-
-### QGIS & Python II
-- Python Console Scripts
-- Python Processing Scripts
-- Python GUI Plugins
-- QGIS Plugin Development
-- PyQGIS outside QGIS (experimental)
-- *knowledge of Python is required*
 
 ### QGIS Processing & Graphical Modeler
 - The Processing Toolbox
@@ -130,6 +116,26 @@ Sign-up or check out the courses below.
 - Making 100 maps in 10 minutes with QGIS Atlas
 - Automatic report generation with QGIS Reports
 - QGIS Patches
+
+### QGIS & Python I
+- Brief Introduction to Python
+- QGIS & Python
+- PyQGIS Examples
+- Interacting with the Interface
+- Working with Layers
+- Working with Symbology
+- Working with Features & Attributes
+- Creating Maps
+- *knowledge of Python is preferred*
+
+### QGIS & Python II
+- Processing with Python
+- Python & QGIS Actions
+- Python & QGIS Expressions
+- QGIS Plugins
+- QGIS processing scripts
+- Stand-alone QGIS descriptions
+- *knowledge of Python is required*
 
 ### QGIS & Spatial SQL
 - QGIS with PostGIS
