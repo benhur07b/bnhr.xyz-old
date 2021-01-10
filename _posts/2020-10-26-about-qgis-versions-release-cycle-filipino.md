@@ -20,272 +20,458 @@ Una sa lahat, maari mong malaman ang version ng QGIS na gamit mo at iba pang imp
 
 <table style="border:none">
 <colgroup>
-<col width="18%" />
-<col width="16%" />
-<col width="16%" />
-<col width="15%" />
-<col width="18%" />
-<col width="8%" />
-<col width="9%" />
+<col style="width: 18%" />
+<col style="width: 16%" />
+<col style="width: 16%" />
+<col style="width: 15%" />
+<col style="width: 18%" />
+<col style="width: 7%" />
+<col style="width: 9%" />
 </colgroup>
-<thead valign="bottom">
-<tr class="row-odd"><th class="head">Event</th>
-<th class="head">Latest</th>
-<th class="head">Long-Term Repo</th>
-<th class="head">Freeze</th>
-<th class="head">Date</th>
-<th class="head">Week #</th>
-<th class="head">Weeks</th>
+<thead>
+<tr class="row-odd"><th class="head"><p>Event</p></th>
+<th class="head"><p>Latest</p></th>
+<th class="head"><p>Long-Term
+Repo</p></th>
+<th class="head"><p>Freeze</p></th>
+<th class="head"><p>Date</p></th>
+<th class="head"><p>Week
+#</p></th>
+<th class="head"><p>Weeks</p></th>
 </tr>
 </thead>
-<tbody valign="top">
-<tr class="row-even"><td><strong>LTR</strong>/PR</td>
-<td>3.4.0</td>
-<td>2.18.25</td>
-<td>&#160;</td>
-<td>2018-10-26</td>
-<td>43</td>
-<td>4</td>
+<tbody>
+<tr class="row-even"><td><p><strong>LTR</strong>/PR</p></td>
+<td><p>3.4.0</p></td>
+<td><p>2.18.25</p></td>
+<td></td>
+<td><p>2018-10-26</p></td>
+<td><p>43</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>EPR</td>
-<td>3.4.1</td>
-<td>&#160;</td>
-<td>&#160;</td>
-<td>2018-11-02</td>
-<td>44</td>
-<td>4</td>
+<tr class="row-odd"><td><p>EPR</p></td>
+<td><p>3.4.1</p></td>
+<td></td>
+<td></td>
+<td><p>2018-11-02</p></td>
+<td><p>44</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR</td>
-<td>3.4.2</td>
-<td>2.18.26</td>
-<td>&#160;</td>
-<td>2018-11-23</td>
-<td>47</td>
-<td>4</td>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.4.2</p></td>
+<td><p>2.18.26</p></td>
+<td></td>
+<td><p>2018-11-23</p></td>
+<td><p>47</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR</td>
-<td>3.4.3</td>
-<td>2.18.27</td>
-<td>&#160;</td>
-<td>2018-12-21</td>
-<td>51</td>
-<td>4</td>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.4.3</p></td>
+<td><p>2.18.27</p></td>
+<td></td>
+<td><p>2018-12-21</p></td>
+<td><p>51</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR/FF</td>
-<td>3.4.4</td>
-<td>2.18.28</td>
-<td>3.5</td>
-<td>2019-01-18</td>
-<td>3</td>
-<td>5</td>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p>3.4.4</p></td>
+<td><p>2.18.28</p></td>
+<td><p>3.5</p></td>
+<td><p>2019-01-18</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
 </tr>
-<tr class="row-odd"><td><strong>LR</strong>/PR</td>
-<td>3.6.0</td>
-<td>3.4.5</td>
-<td>&#160;</td>
-<td>2019-02-22</td>
-<td>8</td>
-<td>4</td>
+<tr class="row-odd"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.6.0</p></td>
+<td><p>3.4.5</p></td>
+<td></td>
+<td><p>2019-02-22</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR</td>
-<td>3.6.1</td>
-<td>3.4.6</td>
-<td>&#160;</td>
-<td>2019-03-22</td>
-<td>12</td>
-<td>4</td>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.6.1</p></td>
+<td><p>3.4.6</p></td>
+<td></td>
+<td><p>2019-03-22</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR</td>
-<td>3.6.2</td>
-<td>3.4.7</td>
-<td>&#160;</td>
-<td>2019-04-19</td>
-<td>16</td>
-<td>4</td>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.6.2</p></td>
+<td><p>3.4.7</p></td>
+<td></td>
+<td><p>2019-04-19</p></td>
+<td><p>16</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR/FF</td>
-<td>3.6.3</td>
-<td>3.4.8</td>
-<td>3.7</td>
-<td>2019-05-17</td>
-<td>20</td>
-<td>5</td>
+<tr class="row-even"><td><p>PR/FF</p></td>
+<td><p>3.6.3</p></td>
+<td><p>3.4.8</p></td>
+<td><p>3.7</p></td>
+<td><p>2019-05-17</p></td>
+<td><p>20</p></td>
+<td><p>5</p></td>
 </tr>
-<tr class="row-odd"><td><strong>LR</strong>/PR</td>
-<td>3.8.0</td>
-<td>3.4.9</td>
-<td>&#160;</td>
-<td>2019-06-21</td>
-<td>25</td>
-<td>4</td>
+<tr class="row-odd"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.8.0</p></td>
+<td><p>3.4.9</p></td>
+<td></td>
+<td><p>2019-06-21</p></td>
+<td><p>25</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR</td>
-<td>3.8.1</td>
-<td>3.4.10</td>
-<td>&#160;</td>
-<td>2019-07-19</td>
-<td>29</td>
-<td>4</td>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.8.1</p></td>
+<td><p>3.4.10</p></td>
+<td></td>
+<td><p>2019-07-19</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR</td>
-<td>3.8.2</td>
-<td>3.4.11</td>
-<td>&#160;</td>
-<td>2019-08-16</td>
-<td>33</td>
-<td>3</td>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.8.2</p></td>
+<td><p>3.4.11</p></td>
+<td></td>
+<td><p>2019-08-16</p></td>
+<td><p>33</p></td>
+<td><p>3</p></td>
 </tr>
-<tr class="row-even"><td>FF</td>
-<td>&#160;</td>
-<td>&#160;</td>
-<td>3.9</td>
-<td>2019-09-06</td>
-<td>36</td>
-<td>1</td>
+<tr class="row-even"><td><p>FF</p></td>
+<td></td>
+<td></td>
+<td><p>3.9</p></td>
+<td><p>2019-09-06</p></td>
+<td><p>36</p></td>
+<td><p>1</p></td>
 </tr>
-<tr class="row-odd"><td>PR</td>
-<td>3.8.3</td>
-<td>3.4.12</td>
-<td>&#160;</td>
-<td>2019-09-13</td>
-<td>37</td>
-<td>4</td>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.8.3</p></td>
+<td><p>3.4.12</p></td>
+<td></td>
+<td><p>2019-09-13</p></td>
+<td><p>37</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>HF</td>
-<td>&#160;</td>
-<td>&#160;</td>
-<td>&#160;</td>
-<td>2019-10-11</td>
-<td>41</td>
-<td>2</td>
+<tr class="row-even"><td><p>HF</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2019-10-11</p></td>
+<td><p>41</p></td>
+<td><p>2</p></td>
 </tr>
-<tr class="row-odd"><td><strong>LTR</strong>/PR</td>
-<td>3.10.0</td>
-<td>3.4.13</td>
-<td>&#160;</td>
-<td>2019-10-25</td>
-<td>43</td>
-<td>6</td>
+<tr class="row-odd"><td><p><strong>LTR</strong>/PR</p></td>
+<td><p>3.10.0</p></td>
+<td><p>3.4.13</p></td>
+<td></td>
+<td><p>2019-10-25</p></td>
+<td><p>43</p></td>
+<td><p>6</p></td>
 </tr>
-<tr class="row-even"><td>PR</td>
-<td>3.10.1</td>
-<td>3.4.14</td>
-<td>&#160;</td>
-<td>2019-12-06</td>
-<td>49</td>
-<td>6</td>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.10.1</p></td>
+<td><p>3.4.14</p></td>
+<td></td>
+<td><p>2019-12-06</p></td>
+<td><p>49</p></td>
+<td><p>6</p></td>
 </tr>
-<tr class="row-odd"><td>PR/FF</td>
-<td>3.10.2</td>
-<td>3.4.15</td>
-<td>3.11</td>
-<td>2020-01-17</td>
-<td>3</td>
-<td>5</td>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.10.2</p></td>
+<td><p>3.4.15</p></td>
+<td><p>3.11</p></td>
+<td><p>2020-01-17</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
 </tr>
-<tr class="row-even"><td><strong>LR</strong>/PR</td>
-<td>3.12.0</td>
-<td>3.10.3</td>
-<td>&#160;</td>
-<td>2020-02-21</td>
-<td>8</td>
-<td>4</td>
+<tr class="row-even"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.12.0</p></td>
+<td><p>3.10.3</p></td>
+<td></td>
+<td><p>2020-02-21</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR</td>
-<td>3.12.1</td>
-<td>3.10.4</td>
-<td>&#160;</td>
-<td>2020-03-20</td>
-<td>12</td>
-<td>4</td>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.12.1</p></td>
+<td><p>3.10.4</p></td>
+<td></td>
+<td><p>2020-03-20</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR</td>
-<td>3.12.2</td>
-<td>3.10.5</td>
-<td>&#160;</td>
-<td>2020-04-17</td>
-<td>16</td>
-<td>4</td>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.12.2</p></td>
+<td><p>3.10.5</p></td>
+<td></td>
+<td><p>2020-04-17</p></td>
+<td><p>16</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR/FF</td>
-<td>3.12.3</td>
-<td>3.10.6</td>
-<td>3.13</td>
-<td>2020-05-15</td>
-<td>20</td>
-<td>5</td>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.12.3</p></td>
+<td><p>3.10.6</p></td>
+<td><p>3.13</p></td>
+<td><p>2020-05-15</p></td>
+<td><p>20</p></td>
+<td><p>5</p></td>
 </tr>
-<tr class="row-even"><td><strong>LR</strong>/PR</td>
-<td>3.14.0</td>
-<td>3.10.7</td>
-<td>&#160;</td>
-<td>2020-06-19</td>
-<td>25</td>
-<td>4</td>
+<tr class="row-even"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.14.0</p></td>
+<td><p>3.10.7</p></td>
+<td></td>
+<td><p>2020-06-19</p></td>
+<td><p>25</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR</td>
-<td>3.14.1</td>
-<td>3.10.8</td>
-<td>&#160;</td>
-<td>2020-07-19</td>
-<td>29</td>
-<td>4</td>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.14.1</p></td>
+<td><p>3.10.8</p></td>
+<td></td>
+<td><p>2020-07-19</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR</td>
-<td>3.14.15</td>
-<td>3.10.9</td>
-<td>&#160;</td>
-<td>2020-08-14</td>
-<td>33</td>
-<td>4</td>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.14.15</p></td>
+<td><p>3.10.9</p></td>
+<td></td>
+<td><p>2020-08-14</p></td>
+<td><p>33</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR/FF</td>
-<td>3.14.16</td>
-<td>3.10.10</td>
-<td>3.15</td>
-<td>2020-09-11</td>
-<td>37</td>
-<td>6</td>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.14.16</p></td>
+<td><p>3.10.10</p></td>
+<td><p>3.15</p></td>
+<td><p>2020-09-11</p></td>
+<td><p>37</p></td>
+<td><p>6</p></td>
 </tr>
-<tr class="row-even"><td><strong>LTR</strong>/PR</td>
-<td>3.16.0</td>
-<td>3.10.11</td>
-<td>&#160;</td>
-<td>2020-10-23</td>
-<td>43</td>
-<td>4</td>
+<tr class="row-even"><td><p><strong>LTR</strong>/PR</p></td>
+<td><p>3.16.0</p></td>
+<td><p>3.10.11</p></td>
+<td></td>
+<td><p>2020-10-23</p></td>
+<td><p>43</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR</td>
-<td>3.16.1</td>
-<td>3.10.12</td>
-<td>&#160;</td>
-<td>2020-11-20</td>
-<td>47</td>
-<td>4</td>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.16.1</p></td>
+<td><p>3.10.12</p></td>
+<td></td>
+<td><p>2020-11-20</p></td>
+<td><p>47</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-even"><td>PR</td>
-<td>3.16.2</td>
-<td>3.10.13</td>
-<td>&#160;</td>
-<td>2020-12-18</td>
-<td>51</td>
-<td>4</td>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.16.2</p></td>
+<td><p>3.10.13</p></td>
+<td></td>
+<td><p>2020-12-21</p></td>
+<td><p>52</p></td>
+<td><p>4</p></td>
 </tr>
-<tr class="row-odd"><td>PR/FF</td>
-<td>3.16.3</td>
-<td>3.10.14</td>
-<td>3.17</td>
-<td>2021-01-15</td>
-<td>3</td>
-<td>5</td>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.16.3</p></td>
+<td><p>3.10.14</p></td>
+<td><p>3.17</p></td>
+<td><p>2021-01-15</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
 </tr>
-<tr class="row-even"><td><strong>LR</strong>/PR</td>
-<td>3.18.0</td>
-<td>3.16.4</td>
-<td>&#160;</td>
-<td>2021-02-19</td>
-<td>8</td>
-<td>4</td>
+<tr class="row-even"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.18.0</p></td>
+<td><p>3.16.4</p></td>
+<td></td>
+<td><p>2021-02-19</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.18.1</p></td>
+<td><p>3.16.5</p></td>
+<td></td>
+<td><p>2021-03-19</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.18.2</p></td>
+<td><p>3.16.6</p></td>
+<td></td>
+<td><p>2021-04-16</p></td>
+<td><p>16</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.18.3</p></td>
+<td><p>3.16.7</p></td>
+<td><p>3.19</p></td>
+<td><p>2021-05-14</p></td>
+<td><p>20</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.20.0</p></td>
+<td><p>3.16.8</p></td>
+<td></td>
+<td><p>2021-06-18</p></td>
+<td><p>25</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.20.1</p></td>
+<td><p>3.16.9</p></td>
+<td></td>
+<td><p>2021-07-16</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.20.2</p></td>
+<td><p>3.16.10</p></td>
+<td></td>
+<td><p>2021-08-13</p></td>
+<td><p>33</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.20.3</p></td>
+<td><p>3.16.11</p></td>
+<td><p>3.21</p></td>
+<td><p>2021-09-10</p></td>
+<td><p>37</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>LTR</strong>/PR</p></td>
+<td><p>3.22.0</p></td>
+<td><p>3.16.12</p></td>
+<td></td>
+<td><p>2021-10-22</p></td>
+<td><p>43</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.22.1</p></td>
+<td><p>3.16.13</p></td>
+<td></td>
+<td><p>2021-11-19</p></td>
+<td><p>47</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.22.2</p></td>
+<td><p>3.16.14</p></td>
+<td></td>
+<td><p>2021-12-17</p></td>
+<td><p>51</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.22.3</p></td>
+<td><p>3.16.15</p></td>
+<td><p>3.23</p></td>
+<td><p>2022-01-14</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.24.0</p></td>
+<td><p>3.22.4</p></td>
+<td></td>
+<td><p>2022-02-18</p></td>
+<td><p>8</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.24.1</p></td>
+<td><p>3.22.5</p></td>
+<td></td>
+<td><p>2022-03-18</p></td>
+<td><p>12</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.24.2</p></td>
+<td><p>3.22.6</p></td>
+<td></td>
+<td><p>2022-04-15</p></td>
+<td><p>16</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.24.3</p></td>
+<td><p>3.22.7</p></td>
+<td><p>3.25</p></td>
+<td><p>2022-05-13</p></td>
+<td><p>20</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>LR</strong>/PR</p></td>
+<td><p>3.26.0</p></td>
+<td><p>3.22.8</p></td>
+<td></td>
+<td><p>2022-06-17</p></td>
+<td><p>25</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.26.1</p></td>
+<td><p>3.22.9</p></td>
+<td></td>
+<td><p>2022-07-15</p></td>
+<td><p>29</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.26.2</p></td>
+<td><p>3.22.10</p></td>
+<td></td>
+<td><p>2022-08-12</p></td>
+<td><p>33</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.26.3</p></td>
+<td><p>3.22.11</p></td>
+<td><p>3.27</p></td>
+<td><p>2022-09-09</p></td>
+<td><p>37</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>LTR</strong>/PR</p></td>
+<td><p>3.28.0</p></td>
+<td><p>3.22.12</p></td>
+<td></td>
+<td><p>2022-10-21</p></td>
+<td><p>43</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR</p></td>
+<td><p>3.28.1</p></td>
+<td><p>3.22.13</p></td>
+<td></td>
+<td><p>2022-11-18</p></td>
+<td><p>47</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-even"><td><p>PR</p></td>
+<td><p>3.28.2</p></td>
+<td><p>3.22.14</p></td>
+<td></td>
+<td><p>2022-12-16</p></td>
+<td><p>51</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>PR/FF</p></td>
+<td><p>3.28.3</p></td>
+<td><p>3.22.15</p></td>
+<td><p>3.29</p></td>
+<td><p>2023-01-13</p></td>
+<td><p>3</p></td>
+<td><p>5</p></td>
 </tr>
 </tbody>
 </table>
