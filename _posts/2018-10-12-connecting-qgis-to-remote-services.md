@@ -52,7 +52,7 @@ GeoServer is used by GeoNode applications and a common component for Spatial Dat
 GeoNode is used for the data repositories of the Phil-LiDAR program as well as many other [organizations and projects](http://geonode.org/gallery/) around the world.
 
 ## Add the Philippine Geoportal Basemap by connecting to an XYZ tile service
-I've discussed about basemaps in QGIS in [**this post**](https://bnhr.xyz/2018/10/07/basemaps-in-qgis.html) and recently, I added the Philippine basemap hosted by the [Philippine Geoportal](http://geoportal.gov.ph) to the [QuickMapServices catalog](http://qms.nextgis.com). You can load the basemap in QGIS by searching for **Philippine Geoportal Basemap** in the QuickMapServices plugin.
+I've discussed about basemaps in QGIS in [**this post**](/2018/10/07/basemaps-in-qgis.html) and recently, I added the Philippine basemap hosted by the [Philippine Geoportal](http://geoportal.gov.ph) to the [QuickMapServices catalog](http://qms.nextgis.com). You can load the basemap in QGIS by searching for **Philippine Geoportal Basemap** in the QuickMapServices plugin.
 
 You can also directly connect to the service hosting the basemap by the Philippine Geoportal. I updated the directions [here](http://www.geoportal.gov.ph/downloads/How%20to%20connect%20and%20consume%20the%20PGS%20Basemap%20in%20QGIS.pdf) to reflect how this can be done in QGIS 3.
 
@@ -268,7 +268,7 @@ You can style the queried layer and check its attribute table.
 
 <div class="col-lg-12 img-container"><img class="img-fluid post-img img-shadow" src="{{ site.assets }}/img/posts/2018-10-12-connecting-qgis-to-remote-services/quickosm-bldg-layer-attr.png" alt="Attribute table of buildings from OSM loaded in QGIS using the QuickOSM plugin"></div>
 
-Now that you've loaded the layers in QGIS, you can then proceed with creating maps using the **Print Layout**. You can check a simple tutorial on how to create maps in the Print Layout [here](https://bnhr.xyz/2018/03/01/learn-cartography-and-styling-in-qgis-part-2.html).
+Now that you've loaded the layers in QGIS, you can then proceed with creating maps using the **Print Layout**. You can check a simple tutorial on how to create maps in the Print Layout [here](/2018/03/01/learn-cartography-and-styling-in-qgis-part-2.html).
 
 That ends this brief post on how to connect QGIS to remote services. I hope you learned something new.
 

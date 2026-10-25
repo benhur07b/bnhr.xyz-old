@@ -6,7 +6,8 @@ tags: [bnhr, smartct, internship, openness, data, geospatial]
 pinned: false
 comments: true
 og_type: article
-author: "Ben Hur S. Pintor"
+author: "BNHR"
 image:
-redirect_to: https://airtable.com/shrOslqO9dpfZrcIo
 ---
+
+{% include archive-closed.html %}

@@ -1,0 +1,27 @@
+// The archive banner on every page and the note that replaces closed forms
+.archive-banner {
+    background: $color-secondary;
+    border-bottom: 1px solid darken($color-secondary, 12%);
+    p {
+        margin: 0;
+        padding: 10px 0;
+        font-size: 0.95rem;
+        color: $color-primary;
+    }
+    a {
+        color: $color-primary;
+        font-weight: bold;
+        text-decoration: underline;
+        white-space: nowrap;
+    }
+}
+
+.archive-note {
+    margin: 1.5rem 0;
+    padding: 1rem 1.25rem;
+    background: $color-secondary;
+    border-left: 4px solid $color-accent-orange;
+    p {
+        margin: 0;
+    }
+}

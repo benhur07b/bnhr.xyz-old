@@ -18,7 +18,7 @@ og_type: article
   - **Short-term (<1 week)** events can provide **some skill-building opportunities**.
   - **Medium-term (2-12 weeks)** events are good for **building and applying skills**.
   - **Long-term (> 3 months)** events can create **direct-impact projects**.
-- This isn't a basic QGIS training (you can visit my [website](https://bnhr.xyz/services/training/spatial) for that).
+- This isn't a basic QGIS training (you can visit my [website](/services/training/spatial) for that).
 - This isn't a comprehensive list of QGIS features but you can find a lot of stuff about QGIS, FOSS4G, and open geospatial on my [website](https://bnhr.xyz), [YouTube](https://youtube.com/c/bnhrdotxyz), [Facebook](https://facebook.com/bnhr.xyz), and [Twitter](https://twitter.com/bnhrdotxyz).
 - Some of the exercises shown will be about the application of QGIS features and functionalities to **basketball analysis**.
 

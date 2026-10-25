@@ -13,9 +13,7 @@ Part of the Introductory QGIS Learning Path with QGIS: Layers and Expressions.
 
 Sign-up and reserve your slot to QGIS Essentials course. Learn more about the training courses [here]({{site.baseurl}}/courses/2024/).
 
-If the sign-up for below isn't showing, you can try [this link](https://airtable.com/appYdMRAHH2BCShei/shrWfEVrAsdcWeSa3).
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appYdMRAHH2BCShei/shrWfEVrAsdcWeSa3?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{% include archive-closed.html %}
 
 <hr><br>
 ## Interested in a custom course for your organization?

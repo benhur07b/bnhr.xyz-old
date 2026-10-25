@@ -13,9 +13,7 @@ Please note that due to high demand, we may not be able to accommodate all reque
 Selected individuals will be contacted to confirm their consultation appointment. We appreciate your understanding and look forward to the opportunity to assist you.
 
 ## Book a free consultation
-If the form below isn't showing, you can try [this link](https://airtable.com/appYdMRAHH2BCShei/pagRiWHozkEJTviNR/form).
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appYdMRAHH2BCShei/pagRiWHozkEJTviNR/form" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{% include archive-closed.html %}
 
 <hr><br>
 ## Can't find a time that fits your schedule? 

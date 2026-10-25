@@ -206,9 +206,9 @@ Ang mga rasters at vectors ay tinalakay sa [huling lathala](https://benhur07b.gi
 
 Ang Browser ay maaring gamitin upang hanapin sa kompyuter ang mga layers na nais ilagay sa QGIS.
 
-Maari ding "i-drag" o hatakin papasok sa interface ng QGIS ang mga vector, raster, at CSV files upang mabasa sila ng QGIS. Para sa mga CSV files, maari rin tingnan [ito](https://bnhr.xyz/2018/08/07/specifying-csv-data-types-using-a-csvt-file.html) kung paano siya ilagay sa QGIS bilang layer.
+Maari ding "i-drag" o hatakin papasok sa interface ng QGIS ang mga vector, raster, at CSV files upang mabasa sila ng QGIS. Para sa mga CSV files, maari rin tingnan [ito](/2018/08/07/specifying-csv-data-types-using-a-csvt-file.html) kung paano siya ilagay sa QGIS bilang layer.
 
-Para naman sa mga Spreadsheet files tulad ng mga gawa sa LibreOffice Calc o MS Excel, maaring gamitin ang Spreadsheet layers plugin na tinalakay [dito](https://bnhr.xyz/2018/07/27/plugin-fridays-spreadsheet-layers-plugin.html).
+Para naman sa mga Spreadsheet files tulad ng mga gawa sa LibreOffice Calc o MS Excel, maaring gamitin ang Spreadsheet layers plugin na tinalakay [dito](/2018/07/27/plugin-fridays-spreadsheet-layers-plugin.html).
 
 ### Pagkonekta sa mga database
 Para naman kumunekta sa isang database, maaring:

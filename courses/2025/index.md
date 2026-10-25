@@ -8,9 +8,7 @@ og_type: page
 
 ## Join our upcoming training courses!
 
-*Please try this [link](https://airtable.com/appzhDQUZX6UARmum/pagIBMMN3DX9Xg56Z/form) if the registration form below does not appear.*
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appzhDQUZX6UARmum/pagIBMMN3DX9Xg56Z/form" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{% include archive-closed.html %}
 
 
 <br>
@@ -28,11 +26,11 @@ og_type: page
 
 BNHR’s training courses are carefully designed to build upon each other, providing learners with a strong foundation and a clear pathway for continued growth. Each course focuses on a particular topic or theme and provides a comprehensive understanding of the subject matter. The 2025 version includes a total of 12 courses covering a diverse range of topics from introductory lessons to advanced visualization and processing to geospatial data management:
 
-- [QGIS: Express]({{site.baseurl}}/courses/2025/qgis-express) - **[SIGN-UP](https://airtable.com/appzhDQUZX6UARmum/paghZ9pjDe4dCrWHs/form)**
-- [QGIS: Essentials](https://learn-qgis.bnhr.xyz/essentials/00-about/) - **[SIGN-UP](https://airtable.com/appzhDQUZX6UARmum/pagldvUhiQgGXwdFP/form)**
-- [QGIS: Layers and Expressions](https://learn-qgis.bnhr.xyz/layers-and-expressions/00-about/) - **[SIGN-UP](https://airtable.com/appzhDQUZX6UARmum/paghYBtsnAIh2NxGq/form)**
-- [QGIS: Advanced Styling and Symbology](https://learn-qgis.bnhr.xyz/advanced-styling-and-symbology/00-about/) - **[SIGN-UP](https://airtable.com/appzhDQUZX6UARmum/pagIBMMN3DX9Xg56Z/form)**
-- [QGIS: Maps and Layouts](https://learn-qgis.bnhr.xyz/maps-and-layouts/00-about/) - **[SIGN-UP](https://airtable.com/appzhDQUZX6UARmum/pagIBMMN3DX9Xg56Z/form)**
+- [QGIS: Express]({{site.baseurl}}/courses/2025/qgis-express)
+- [QGIS: Essentials](https://learn-qgis.bnhr.xyz/essentials/00-about/)
+- [QGIS: Layers and Expressions](https://learn-qgis.bnhr.xyz/layers-and-expressions/00-about/)
+- [QGIS: Advanced Styling and Symbology](https://learn-qgis.bnhr.xyz/advanced-styling-and-symbology/00-about/)
+- [QGIS: Maps and Layouts](https://learn-qgis.bnhr.xyz/maps-and-layouts/00-about/)
 - QGIS: Advanced and Automated Processing
 - Geospatial Python
 - Geospatial Data Management: Spatial SQL and PostGIS 

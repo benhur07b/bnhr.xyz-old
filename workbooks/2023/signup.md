@@ -17,9 +17,7 @@ The workbooks are currently only available in digital format to participants of 
 
 # QGIS Workbooks (2023) Interest Check
 
-If the form for below isn't showing, you can try [this link](https://airtable.com/shrF6ChHWY2RUhjW9).
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrF6ChHWY2RUhjW9?backgroundColor=cyan" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{% include archive-closed.html %}
 
 <hr><br>
 ## Interested in a custom course for your organization?

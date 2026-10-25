@@ -33,9 +33,7 @@ Those who are new to GIS/geospatial and are looking to upskill themselves with Q
 
 Sign-up and reserve your slot to QGIS: Essentials course. Learn more about the training courses [here]({{site.baseurl}}/courses/2025/).
 
-If the sign-up for below isn't showing, you can try [this link](https://airtable.com/appzhDQUZX6UARmum/pagldvUhiQgGXwdFP/form).
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appzhDQUZX6UARmum/pagldvUhiQgGXwdFP/form" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{% include archive-closed.html %}
 
 <hr><br>
 ## Interested in a custom course for your organization?

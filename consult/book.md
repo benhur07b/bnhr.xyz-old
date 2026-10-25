@@ -10,9 +10,7 @@ Are you struggling to implement open data strategies or optimize your open geosp
 Whatever your needs, we offer expert consultation services to help you succeed. Book a consultation with us today to gain the insights and expertise required to achieve your goals.
 
 ## Book your consultation
-If the form below isn't showing, you can try [this link](https://airtable.com/app4r34NANHYDVrt2/pagJmcF7o32fsPhxL/form).
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/app4r34NANHYDVrt2/pagJmcF7o32fsPhxL/form" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{% include archive-closed.html %}
 
 <hr><br>
 ## Do you have other concerns?

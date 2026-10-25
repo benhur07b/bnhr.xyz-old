@@ -17,9 +17,7 @@ Welcome to the 2024 cohort selection of BNHR's internship program. Our internshi
 Don't miss this chance to make a meaningful impact, expand your network, and harness your potential. Apply now and embark on a rewarding learning experience with us.
 
 ## Apply for this year's cohort
-If the form below isn't showing, you can try [this link](https://airtable.com/appYdMRAHH2BCShei/pagYKqkvw9jvJGZJS/form).
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appYdMRAHH2BCShei/pagYKqkvw9jvJGZJS/form" frameborder="0" onmousewheel="" width="100%" height="720" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{% include archive-closed.html %}
 
 <hr><br>
 ## Interested in other work or partnership opportunities?
